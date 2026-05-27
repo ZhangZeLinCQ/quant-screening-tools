@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+
+# Local cache and generated artifacts
+data/kline/
+data/result_archive/
+
+# Excel temporary lock files
+~$*.xlsx

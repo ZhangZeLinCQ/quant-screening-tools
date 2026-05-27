@@ -1,0 +1,20 @@
+{
+  "generated_at": "2026-05-27 10:40:19",
+  "effective_end_date": "2026-05-26",
+  "history_days": 430,
+  "adjust": "qfq",
+  "candidate_count": 1767,
+  "result_count": 21,
+  "candidate_table": "D:\\GitProject\\dd\\tset\\data\\candidate_table.csv",
+  "kline_dir": "D:\\GitProject\\dd\\tset\\data\\kline",
+  "result_csv": "D:\\GitProject\\dd\\tset\\screen_result.csv",
+  "result_archive_csv": "D:\\GitProject\\dd\\tset\\data\\result_archive\\screen_result_20260526_20260527_104019.csv",
+  "min_score": 60.0,
+  "min_market_cap_yi": 80,
+  "min_avg_amount_yi": 1.0,
+  "main_board_only": true,
+  "skip_kline_update": true,
+  "force_kline_update": false,
+  "update_workers": 1,
+  "screen_workers": 8
+}
